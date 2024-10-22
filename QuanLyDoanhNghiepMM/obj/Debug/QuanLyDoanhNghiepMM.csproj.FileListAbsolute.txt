@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\QuanLyDoanhNghiepMM\QuanLyDoanhNghiepMM\bin\Debug\QuanLyDoanhNghiepMM.exe.config
+C:\Users\ASUS\source\repos\QuanLyDoanhNghiepMM\QuanLyDoanhNghiepMM\bin\Debug\QuanLyDoanhNghiepMM.exe
+C:\Users\ASUS\source\repos\QuanLyDoanhNghiepMM\QuanLyDoanhNghiepMM\bin\Debug\QuanLyDoanhNghiepMM.pdb
+C:\Users\ASUS\source\repos\QuanLyDoanhNghiepMM\QuanLyDoanhNghiepMM\obj\Debug\QuanLyDoanhNghiepMM.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\QuanLyDoanhNghiepMM\QuanLyDoanhNghiepMM\obj\Debug\QuanLyDoanhNghiepMM.Properties.Resources.resources
+C:\Users\ASUS\source\repos\QuanLyDoanhNghiepMM\QuanLyDoanhNghiepMM\obj\Debug\QuanLyDoanhNghiepMM.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\QuanLyDoanhNghiepMM\QuanLyDoanhNghiepMM\obj\Debug\QuanLyDoanhNghiepMM.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\QuanLyDoanhNghiepMM\QuanLyDoanhNghiepMM\obj\Debug\QuanLyDoanhNghiepMM.exe
+C:\Users\ASUS\source\repos\QuanLyDoanhNghiepMM\QuanLyDoanhNghiepMM\obj\Debug\QuanLyDoanhNghiepMM.pdb
+C:\Users\ASUS\source\repos\QuanLyDoanhNghiepMM\QuanLyDoanhNghiepMM\obj\Debug\QuanLyDoanhNghiepMM.Login.resources
+C:\Users\ASUS\source\repos\QuanLyDoanhNghiepMM\QuanLyDoanhNghiepMM\obj\Debug\QuanLyDoanhNghiepMM.Signup.resources
+C:\Users\ASUS\source\repos\QuanLyDoanhNghiepMM\QuanLyDoanhNghiepMM\obj\Debug\QuanLyDoanhNghiepMM.Forget.resources
+C:\Users\ASUS\source\repos\QuanLyDoanhNghiepMM\QuanLyDoanhNghiepMM\obj\Debug\QuanLyDoanhNghiepMM.ResetPass.resources
